@@ -1,0 +1,13 @@
+{
+  "name": "DadJokes",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "browser_action": {
+    "default_popup": "index.html",
+    "default_action": "minion.png"
+  },
+  "icons": {
+    "128": "minion.png"
+  },
+  "permissions": ["activeTab"]
+}
